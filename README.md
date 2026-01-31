@@ -6,11 +6,11 @@ This project turns a normally invisible process into an interactive learning exp
 
 🚀 Live Demo
 
-👉 [live page](https://your-live-link.com)
+👉 [live page](https://rustom-yadav.github.io/decimal-to-binary-converter/)
 
 📂 GitHub Repository
 
-👉 [github repository](https://github.com/your-username/decimal-to-binary-visualizer)
+👉 [github repository](https://github.com/Rustom-yadav/decimal-to-binary-converter)
 
 ✨ Features
 
@@ -57,7 +57,7 @@ This allows users to see exactly how recursion builds the final binary result.
 
 Clone the repository
 
-git clone https://github.com/your-username/decimal-to-binary-visualizer
+git clone https://github.com/Rustom-yadav/decimal-to-binary-converter.git
 
 
 Open the project
