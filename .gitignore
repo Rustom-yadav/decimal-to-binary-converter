@@ -1,0 +1,15 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE folders
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Environment files (future-proofing)
+.env
+.env.local
+.env.*.local
